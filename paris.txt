@@ -7,3 +7,5 @@ hola
 texto a medias para git diff
 
 hemos cambiado de rama unas cuantas veces
+
+de nuevo estoy en paris
